@@ -15,6 +15,7 @@ public class Practica_lopez {
 	public static void printTwo() {
 		printOne();
 		printOne();
+		
 	}
 }
 
