@@ -9,6 +9,7 @@ public class Practica_lopez {
 		
 	}
 
+	
 	public static void printOne() {
 		System.out.println("Hello World");
 	}
