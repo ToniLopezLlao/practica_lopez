@@ -12,11 +12,6 @@ public class Practica_lopez {
 		System.out.println("Hello World");
 	}
 
-	public static void printTwo() {
-		printOne();
-		printOne();
-		
-	}
 }
 
 
