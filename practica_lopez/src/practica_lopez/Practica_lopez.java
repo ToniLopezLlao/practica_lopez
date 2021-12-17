@@ -6,6 +6,7 @@ public class Practica_lopez {
 		printOne();
 		printOne();
 		
+		
 	}
 
 	public static void printOne() {
